@@ -13,7 +13,7 @@
 
 ---
 
-<h3 align="center">📚 | В изучение мб</h3>
+<h3 align="center">📚 | Изучение мб</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
