@@ -1,0 +1,21 @@
+from bs4 import BeautifulSoup
+
+link_text = "Google"
+link_url = "https://www.google.com"
+
+soup = BeautifulSoup("<html><body></body></html>", "html.parser")
+link = soup.new_tag("a", href=link_url)
+link.string = link_text
+soup.body.append(link)
+
+print(soup.prettify())
+ 
+
+3. Ручное создание HTML-строки:
+
+link_text = "Google"
+link_url = "https://www.google.com"
+
+html_string = f"<a href=\"{link_url}\">{link_text}</a>"
+
+print(html_string)
