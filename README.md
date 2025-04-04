@@ -17,13 +17,13 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  />
+ 
 
 </p>
 
 ---
 
-<h3 align="center">DS | Связаться (Зачем?)</h3>
+<h3 align="center">ds | </h3>
 
 <p align="center">
  <a href="https://discordapp.com/users/658613371553185823/" target="_blank">
