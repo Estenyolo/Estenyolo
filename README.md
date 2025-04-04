@@ -25,10 +25,6 @@
 
 <h3 align="center">ds  </h3>
 
-<p align="center">
- <a href="https://discordapp.com/users/658613371553185823/" target="_blank">
-  <img src="https://media.discordapp.net/attachments/1077587924595527802/1301272458954805288/IMG_3404.png?ex=6723dfea&is=67228e6a&hm=f417821ff55add296e028bb9e89371010322077349a1908d80377408e435ec4c" width="70" height="70">
-</a>
 <p>
  
 
